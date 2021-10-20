@@ -1,8 +1,9 @@
 {
-  "name": "thingsboard",
-  "short_name": "thingsboard",
-  "theme_color": "#1976d2",
+  "name": "Pointblaze",
+  "short_name": "pointBlaze",
+  "theme_color": "#0f3a63",
   "background_color": "#fafafa",
+  "display_override": ["window-control-overlay", "fullscreen"],
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
