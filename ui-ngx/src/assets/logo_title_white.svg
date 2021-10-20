@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 1543.4 320" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style bx:fonts="Lato" bx:pinned="true">@import url(https://fonts.googleapis.com/css2?family=Lato%3Aital%2Cwght%400%2C100%3B0%2C300%3B0%2C400%3B0%2C700%3B0%2C900%3B1%2C100%3B1%2C300%3B1%2C400%3B1%2C700%3B1%2C900&amp;display=swap);</style>
+  </defs>
+  <text style="fill: rgb(255, 255, 255); fill-rule: evenodd; font-family: Lato; font-size: 53.2px; stroke-opacity: 0; white-space: pre;" transform="matrix(6.087796, 0, 0, 5.88056, -1255.432129, -315.495514)"><tspan x="205.518" y="95.673" style="font-weight: 300;">point</tspan><tspan style="font-weight: 700;">Blaze</tspan></text>
+</svg>
